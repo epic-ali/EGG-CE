@@ -47,9 +47,9 @@ Usage
 --------------------------------------------------------------
 Controls
 --------------------------------------------------------------
-  - Left / Right    Movement
-  - 2nd             Quickly switch between lanes
-  - Clear           Exit the game
+  - **Left / Right**    Movement
+  - **2nd**             Quickly switch between lanes
+  - **Clear**           Exit the game
 
 --------------------------------------------------------------
 Credits
