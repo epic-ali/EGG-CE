@@ -6,6 +6,8 @@
 An almost accurate 1:1 recreation of the secret scanner game called EGG in ROBLOX doors.
 It saves the progress of your current round if you accidentally exit the game.
 
+![Screen Recording](images/screenrecording.png)
+
 It includes pretty much every feature the original has to offer:
 - Functional Leaderboard
 - Infinite Mode after 3 rounds
