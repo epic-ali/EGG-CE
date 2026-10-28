@@ -23,8 +23,7 @@ This is also my first-ever calculator game.
 Gameplay of EGG on a calculator is in the following video (https://www.youtube.com/watch?v=9lXlxsfaI9c).
 May be a little outdated.
 
-v1.0
-Port by epic-ali
+*v1.0 - Port by epic-ali*
 
 --------------------------------------------------------------
 Requirements
